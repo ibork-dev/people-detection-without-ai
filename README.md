@@ -5,4 +5,4 @@ This project focuses on detecting and tracking people in video sequences using c
 Implemented in MATLAB.
 Only developed by me.
 
-<img src="https://github.com/ibork-dev/people-detection-without-ai/blob/main/output_video.gif" width="600" />
+<img src="https://github.com/ibork-dev/people-detection-without-ai/blob/main/output_video.gif" width="700" />
